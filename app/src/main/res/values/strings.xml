@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Labs</string>
+    <string name="buttonLeave">Back</string>
+    <string name="button1">Enter</string>
+    <string name="welcomeText">Initial Page</string>
+    <string name="pageTitleInfoStudent">Student Page</string>
+    <string name="student">Name - Student Number</string>
+    <string name="landscapeText">You are in landscape mode!</string>
+</resources>

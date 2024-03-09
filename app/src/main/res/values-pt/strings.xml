@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Labs</string>
+    <string name="buttonLeave">Voltar</string>
+    <string name="button1">Entrar</string>
+    <string name="welcomeText">Página Inicial</string>
+    <string name="pageTitleInfoStudent">Página do Aluno</string>
+    <string name="student">Nome do Aluno - Nº do Aluno</string>
+    <string name="landscapeText">Está em modo landscape!</string>
+</resources>
